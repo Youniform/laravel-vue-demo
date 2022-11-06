@@ -1,0 +1,1 @@
+/home/youniform/laravel-projects/example-app/vendor/bin/sail
